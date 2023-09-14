@@ -60,4 +60,3 @@ To find X, we perform the hexadecimal addition:
 
 Therefore, X is equal to 168 in hexadecimal.
 
-I hope this helps! Let me know if you need any further assistance.  
